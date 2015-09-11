@@ -11,6 +11,7 @@ There are three classes:
 - Prettify class, which includes the main method and provides a scanner to user to enter a number to format.
 - PrettifyFormatter class, which does the work of formatting the number.
 - TestPrettifier class, a JUnit test to validate the results of the PrettifyFormatter class.
+- Maven is used for build management.
 
 The code surely needs some improvements. Such as:
 
