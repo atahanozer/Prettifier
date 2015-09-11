@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * The TestPrettyFormatter class tests the results of PrettyFormatter class. 
  * 
- * @author Jason Brice jlbrice@gmail.com
+ * @author Atahan Ozer
  * @version 1.0
  */
 public class TestPrettifier {
@@ -106,6 +106,7 @@ public class TestPrettifier {
 			}
 
 		}
+		System.out.println();
 	}
 
 }
